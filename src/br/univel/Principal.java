@@ -5,7 +5,9 @@ package br.univel;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		new Message().hello();
+		System.out.println("É Nóis!");
 
 	}
 
